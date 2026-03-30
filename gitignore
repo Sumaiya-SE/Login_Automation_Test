@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Selenium drivers
+drivers/
+
+# Test reports
+reports/
+*.html
+
+# Logs
+*.log
+
+# Pytest cache
+.pytest_cache/
+
